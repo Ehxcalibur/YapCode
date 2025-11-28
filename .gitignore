@@ -41,3 +41,11 @@ app-example
 # generated native folders
 /ios
 /android
+
+# logs
+crash_logs.txt
+*.log
+
+# build outputs
+*.apk
+*.aab
